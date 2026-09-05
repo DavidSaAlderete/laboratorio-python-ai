@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Configuraciones locales y datasets temporales
+.vscode/
+*.csv
