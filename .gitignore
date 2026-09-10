@@ -221,3 +221,6 @@ __marimo__/
 .vscode/
 *.csv
 *.png
+
+# Variables de entorno
+.env
