@@ -1,0 +1,19 @@
+contourpy @ file:///home/task_176364362873675/conda-bld/contourpy_1763643921742/work
+cycler @ file:///home/task_176606789349323/croot/cycler_1766067915143/work
+fonttools @ file:///home/task_178107556000308/croot/fonttools_1781075599836/work
+kiwisolver @ file:///home/task_bpD9e9pQT0Wbm_0/croot/kiwisolver_1786023292555/work
+matplotlib==3.11.0
+mkl-service==2.7.2
+mkl_fft @ file:///home/task_177730040699236/croot/mkl_fft_1777300456974/work
+mkl_random @ file:///home/task_178236947674497/croot/mkl_random_1782369503835/work
+numpy @ file:///home/task_178034586575362/croot/numpy_and_numpy_base_1780345920260/work/dist/numpy-2.4.6-cp311-cp311-linux_x86_64.whl#sha256=d407f3ff160b083c215da01ba61f8297efa3d72514c67b345cdefb1e581f1c69
+packaging==26.3
+pandas @ file:///home/task_Wg1ASqACR2iQ1_0/croot/pandas_1785760214036/work
+pillow @ file:///home/task_177797437057638/croot/pillow_1777974413116/work
+pyparsing @ file:///home/task_178652807764327/croot/pyparsing_1786528156990/work
+PyQt6==6.7.1
+PyQt6_sip @ file:///croot/pyqt-split_1753427276959/work/pyqt_sip
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+sip @ file:///croot/sip_1738856193618/work
+six @ file:///croot/six_1744271502820/work
+tornado @ file:///home/task_178853359204954/croot/tornado_1788533620378/work

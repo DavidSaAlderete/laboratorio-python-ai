@@ -220,3 +220,4 @@ __marimo__/
 # Configuraciones locales y datasets temporales
 .vscode/
 *.csv
+*.png
