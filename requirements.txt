@@ -1,6 +1,9 @@
+certifi==2026.7.22
+charset-normalizer==3.5.1
 contourpy @ file:///home/task_176364362873675/conda-bld/contourpy_1763643921742/work
 cycler @ file:///home/task_176606789349323/croot/cycler_1766067915143/work
 fonttools @ file:///home/task_178107556000308/croot/fonttools_1781075599836/work
+idna==3.19
 kiwisolver @ file:///home/task_bpD9e9pQT0Wbm_0/croot/kiwisolver_1786023292555/work
 matplotlib==3.11.0
 mkl-service==2.7.2
@@ -14,6 +17,9 @@ pyparsing @ file:///home/task_178652807764327/croot/pyparsing_1786528156990/work
 PyQt6==6.7.1
 PyQt6_sip @ file:///croot/pyqt-split_1753427276959/work/pyqt_sip
 python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+python-dotenv==1.2.3
+requests==2.34.2
 sip @ file:///croot/sip_1738856193618/work
 six @ file:///croot/six_1744271502820/work
 tornado @ file:///home/task_178853359204954/croot/tornado_1788533620378/work
+urllib3==2.7.0
